@@ -1,5 +1,7 @@
 # @nonsensebb/eslint-config-preact
 
+[![npm version](https://badge.fury.io/js/%40nonsensebb%2Feslint-config-preact.svg)](https://badge.fury.io/js/%40nonsensebb%2Feslint-config-preact)
+
 > A shareable config for Preact projects by NonsenseBB
 
 ## Installation

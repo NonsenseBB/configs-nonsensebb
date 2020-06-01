@@ -1,5 +1,7 @@
 # @nonsensebb/stylelint-config-scss
 
+[![npm version](https://badge.fury.io/js/%40nonsensebb%2Fstylelint-config-scss.svg)](https://badge.fury.io/js/%40nonsensebb%2Fstylelint-config-scss)
+
 > A shareable SCSS config by NonsenseBB
 
 ## Installation

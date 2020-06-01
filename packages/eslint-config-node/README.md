@@ -1,5 +1,7 @@
 # @nonsensebb/eslint-config-node
 
+[![npm version](https://badge.fury.io/js/%40nonsensebb%2Feslint-config-node.svg)](https://badge.fury.io/js/%40nonsensebb%2Feslint-config-node)
+
 > A shareable config for Node.js projects by NonsenseBB
 
 ## Installation
