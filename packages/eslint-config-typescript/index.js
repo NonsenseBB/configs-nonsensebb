@@ -1,8 +1,8 @@
 module.exports = {
+  'root': true,
   'parser': '@typescript-eslint/parser',
   'extends': [
     '@nonsensebb',
-    'plugin:@typescript-eslint/eslint-recommended',
     'plugin:@typescript-eslint/recommended',
   ],
   'plugins': [
@@ -25,7 +25,10 @@ module.exports = {
       },
     },
   },
-  'rules': {},
+  'rules': {
+    // TODO: implement a proper naming convention
+    '@typescript-eslint/naming-convention': 'off',
+  },
   'overrides': [
     {
       'files': [
