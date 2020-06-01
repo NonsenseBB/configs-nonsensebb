@@ -8,10 +8,9 @@
     "url": "git+https://github.com/d3x7r0/configs-nonsensebb.git"
   },
   "keywords": [
-    "eslint",
+    "stylelint",
     "config",
-    "javascript",
-    "js"
+    "css"
   ],
   "author": "Luís Nabais <luis@nabais.me>",
   "license": "MIT",

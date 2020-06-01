@@ -11,7 +11,9 @@
     "eslint",
     "config",
     "javascript",
-    "js"
+    "js",
+    "typescrint",
+    "ts"
   ],
   "author": "Luís Nabais <luis@nabais.me>",
   "license": "MIT",
