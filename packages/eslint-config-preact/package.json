@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
   },
-  "homepage": "https://github.com/d3x7r0/configs-nonsensebb/packages/eslint-config-base#readme",
+  "homepage": "https://github.com/d3x7r0/configs-nonsensebb/tree/master/packages/eslint-config-base#readme",
   "dependencies": {
     "@nonsensebb/eslint-config": "^0.1.0",
     "babel-eslint": "^10.1.0",

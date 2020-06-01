@@ -18,7 +18,7 @@
   "bugs": {
     "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
   },
-  "homepage": "https://github.com/d3x7r0/configs-nonsensebb/packages/stylelint-config#readme",
+  "homepage": "https://github.com/d3x7r0/configs-nonsensebb/tree/master/packages/stylelint-config#readme",
   "dependencies": {
     "@nonsensebb/stylelint-config": "^0.1.0",
     "stylelint": "^13.5.0",
