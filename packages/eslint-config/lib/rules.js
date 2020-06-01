@@ -6,6 +6,10 @@ module.exports = {
   'indent': [
     'warn',
     2,
+    {
+      'SwitchCase': 1,
+      'VariableDeclarator': 'first',
+    },
   ],
   'no-plusplus': 'off',
   'object-curly-newline': [
