@@ -7,7 +7,8 @@ A set of opinionated configurations for [ESLint](https://eslint.org) and [Stylel
 - [@nonsensebb/eslint-config](./packages/eslint-config) - The Base ESLint config
 - [@nonsensebb/eslint-config-node](./packages/eslint-config-node) - The ESLint config for Node.js projects
 - [@nonsensebb/eslint-config-preact](./packages/eslint-config-preact) - The ESLint config for Preact based projects
-- TODO: an eslint config for react and/or typescript projects
+- [@nonsensebb/eslint-config-typescript](./packages/eslint-config-typescrint) - The ESLint config for Typescript based projects
+- TODO: an eslint config for projects
 
 ### Stylelint
 - [@nonsensebb/stylelint-config](./packages/stylelint-config) - The Base Stylelint config

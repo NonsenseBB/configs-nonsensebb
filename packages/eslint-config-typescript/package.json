@@ -1,0 +1,36 @@
+{
+  "name": "@nonsensebb/eslint-config-typescript",
+  "version": "0.1.1",
+  "description": "Typescript shareable eslint config by NonsenseBB",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3x7r0/configs-nonsensebb.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "javascript",
+    "js"
+  ],
+  "author": "Luís Nabais <luis@nabais.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
+  },
+  "homepage": "https://github.com/d3x7r0/configs-nonsensebb/tree/master/packages/eslint-config-typescript#readme",
+  "dependencies": {
+    "@nonsensebb/eslint-config": "^0.1.1"
+  },
+  "peerDependencies": {
+    "typescript": "^3.9.3",
+    "eslint": "^7.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-promise": "^4.2.1",
+    "@typescript-eslint/eslint-plugin": "^3.0.2",
+    "@typescript-eslint/parser": "^3.0.2"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}
