@@ -19,9 +19,11 @@
     "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
   },
   "homepage": "https://github.com/d3x7r0/configs-nonsensebb/tree/master/packages/stylelint-config-scss#readme",
+  "dependencies": {
+    "stylelint-config-recommended": "^3.0.0"
+  },
   "peerDependencies": {
     "stylelint": "^10.1.0 || ^11.0.0 || ^12.0.0 || ^13.0.0",
-    "stylelint-config-recommended": "^3.0.0",
     "stylelint-order": "^4.0.0"
   },
   "publishConfig": {

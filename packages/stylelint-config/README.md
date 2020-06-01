@@ -9,7 +9,7 @@
 First, install stylelint, stylelint and other peer dependencies, if you haven't done so yet via npm:
 
 ```shell
-npm install --save-dev stylelint stylelint-config-recommended stylelint-order
+npm install --save-dev stylelint stylelint-order
 ```
 
 and then you can install the config:
