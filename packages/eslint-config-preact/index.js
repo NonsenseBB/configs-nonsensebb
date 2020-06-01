@@ -41,6 +41,14 @@ module.exports = {
     },
   },
   'rules': Object.assign({}, require('@nonsensebb/eslint-config/lib/rules'), {
+    "react/jsx-indent": [
+      2,
+      2
+    ],
+    "react/jsx-indent-props": [
+      2,
+      "first"
+    ],
     'react/prop-types': 'off',
     'react/jsx-props-no-spreading': 'off',
     'react/jsx-key': 'warn',

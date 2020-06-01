@@ -3,16 +3,19 @@ module.exports = {
     'warn',
     'never',
   ],
-  'indent': [
-    'warn',
+  "indent": [
+    "warn",
     2,
     {
-      'SwitchCase': 1,
-      'VariableDeclarator': 'first',
-      'CallExpression': {
-        'arguments': 'first',
+      "SwitchCase": 1,
+      "VariableDeclarator": "first",
+      "CallExpression": {
+        "arguments": "first"
       },
-    },
+      "ignoredNodes": [
+        "JSXElement *"
+      ]
+    }
   ],
   'no-plusplus': 'off',
   'object-curly-newline': [
