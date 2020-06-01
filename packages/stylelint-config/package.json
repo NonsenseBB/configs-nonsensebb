@@ -1,6 +1,6 @@
 {
   "name": "@nonsensebb/stylelint-config",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Base shareable stylelint config by NonsenseBB",
   "main": "index.js",
   "repository": {
