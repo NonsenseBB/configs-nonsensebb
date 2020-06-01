@@ -1,6 +1,6 @@
 {
   "name": "@nonsensebb/eslint-config",
-  "version": "0.1.3",
+  "version": "0.1.4",
   "description": "Base shareable eslint config by NonsenseBB",
   "main": "index.js",
   "repository": {
