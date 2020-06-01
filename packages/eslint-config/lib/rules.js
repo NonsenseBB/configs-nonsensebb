@@ -9,6 +9,9 @@ module.exports = {
     {
       'SwitchCase': 1,
       'VariableDeclarator': 'first',
+      'CallExpression': {
+        'arguments': 'first',
+      },
     },
   ],
   'no-plusplus': 'off',
