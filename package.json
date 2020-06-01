@@ -1,0 +1,36 @@
+{
+  "name": "@nonsensebb/configs",
+  "description": "eslint and stylelint shared configs by NonsenseBB",
+  "private": true,
+  "scripts": {
+    "publish": "lerna publish",
+    "fix": "eslint --fix --ext .js packages/**/*.js",
+    "lint": "eslint ${ESLINT_OPTS} --ext .js packages/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3x7r0/configs-nonsensebb.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "javascript",
+    "css",
+    "js",
+    "stylelint"
+  ],
+  "author": "Luís Nabais <luis@nabais.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
+  },
+  "homepage": "https://github.com/d3x7r0/configs-nonsensebb#readme",
+  "devDependencies": {
+    "lerna": "^3.22.0",
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-plugin-import": "^2.20.1",
+    "eslint-plugin-promise": "^4.2.1",
+    "@nonsensebb/eslint-config-node": "^0.1.0"
+  }
+}

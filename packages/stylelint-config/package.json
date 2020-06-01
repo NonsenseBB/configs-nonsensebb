@@ -1,0 +1,27 @@
+{
+  "name": "@nonsensebb/stylelint-config",
+  "version": "0.1.0",
+  "description": "Base shareable stylelint config by NonsenseBB",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3x7r0/configs-nonsensebb.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "javascript",
+    "js"
+  ],
+  "author": "Luís Nabais <luis@nabais.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
+  },
+  "homepage": "https://github.com/d3x7r0/configs-nonsensebb/packages/stylelint-config-scss#readme",
+  "peerDependencies": {
+    "stylelint": "^10.1.0 || ^11.0.0 || ^12.0.0 || ^13.0.0",
+    "stylelint-config-recommended": "^3.0.0",
+    "stylelint-order": "^4.0.0"
+  }
+}

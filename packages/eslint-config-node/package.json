@@ -1,0 +1,31 @@
+{
+  "name": "@nonsensebb/eslint-config-node",
+  "version": "0.1.0",
+  "description": "Node.js shareable eslint config by NonsenseBB",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/d3x7r0/configs-nonsensebb.git"
+  },
+  "keywords": [
+    "eslint",
+    "config",
+    "javascript",
+    "js"
+  ],
+  "author": "Luís Nabais <luis@nabais.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
+  },
+  "homepage": "https://github.com/d3x7r0/configs-nonsensebb/packages/eslint-config-node#readme",
+  "dependencies": {
+    "@nonsensebb/eslint-config": "^0.1.0"
+  },
+  "peerDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^7.1.0",
+    "eslint-plugin-import": "^2.20.2",
+    "eslint-plugin-promise": "^4.2.1"
+  }
+}
