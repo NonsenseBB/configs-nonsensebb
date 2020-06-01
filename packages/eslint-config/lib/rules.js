@@ -3,19 +3,52 @@ module.exports = {
     'warn',
     'never',
   ],
-  "indent": [
-    "warn",
+  'indent': [
+    'warn',
     2,
     {
-      "SwitchCase": 1,
-      "VariableDeclarator": "first",
-      "CallExpression": {
-        "arguments": "first"
+      'SwitchCase': 1,
+      'VariableDeclarator': 'first',
+      'outerIIFEBody': 1,
+      'FunctionDeclaration': {
+        'parameters': 1,
+        'body': 1,
       },
-      "ignoredNodes": [
-        "JSXElement *"
-      ]
-    }
+      'FunctionExpression': {
+        'parameters': 1,
+        'body': 1,
+      },
+      'CallExpression': {
+        'arguments': 1,
+      },
+      'ArrayExpression': 1,
+      'ObjectExpression': 1,
+      'ImportDeclaration': 1,
+      'flatTernaryExpressions': false,
+      'ignoredNodes': [
+        'JSXElement',
+        'JSXElement > *',
+        'JSXAttribute',
+        'JSXIdentifier',
+        'JSXNamespacedName',
+        'JSXMemberExpression',
+        'JSXSpreadAttribute',
+        'JSXExpressionContainer',
+        'JSXOpeningElement',
+        'JSXClosingElement',
+        'JSXFragment',
+        'JSXOpeningFragment',
+        'JSXClosingFragment',
+        'JSXText',
+        'JSXEmptyExpression',
+        'JSXSpreadChild',
+      ],
+      'ignoreComments': false,
+    },
+  ],
+  'linebreak-style': [
+    'error',
+    'unix',
   ],
   'no-plusplus': 'off',
   'object-curly-newline': [
