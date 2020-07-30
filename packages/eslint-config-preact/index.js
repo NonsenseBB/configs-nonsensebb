@@ -67,7 +67,7 @@ module.exports = {
     ],
     'react-hooks/rules-of-hooks': 'error',
     'react-hooks/exhaustive-deps': 'error',
-    'react/display-name': 'off',
+    'react/display-name': 'error',
     'jsx-a11y/anchor-is-valid': 'off',
     'jsx-a11y/media-has-caption': 'off',
     'import/order': [
