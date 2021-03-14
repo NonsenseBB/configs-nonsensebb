@@ -1,6 +1,6 @@
 {
   "name": "@nonsensebb/eslint-config-node",
-  "version": "0.2.0",
+  "version": "0.3.0",
   "description": "Node.js shareable eslint config by NonsenseBB",
   "main": "index.js",
   "repository": {
@@ -20,7 +20,7 @@
   },
   "homepage": "https://github.com/d3x7r0/configs-nonsensebb/tree/master/packages/eslint-config-node#readme",
   "dependencies": {
-    "@nonsensebb/eslint-config": "^0.2.0"
+    "@nonsensebb/eslint-config": "^0.3.0"
   },
   "peerDependencies": {
     "eslint": "^7.22.0",
