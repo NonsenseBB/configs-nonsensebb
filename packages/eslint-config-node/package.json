@@ -19,6 +19,9 @@
     "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
   },
   "homepage": "https://github.com/d3x7r0/configs-nonsensebb/tree/master/packages/eslint-config-node#readme",
+  "engines": {
+    "node": ">= 10"
+  },
   "dependencies": {
     "@nonsensebb/eslint-config": "^0.3.0"
   },

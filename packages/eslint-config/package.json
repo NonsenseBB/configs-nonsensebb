@@ -19,6 +19,9 @@
     "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
   },
   "homepage": "https://github.com/d3x7r0/configs-nonsensebb/tree/master/packages/eslint-config#readme",
+  "engines": {
+    "node": ">= 10"
+  },
   "peerDependencies": {
     "eslint": "^7.22.0",
     "eslint-plugin-import": "^2.22.1",
