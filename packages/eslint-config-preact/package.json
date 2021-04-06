@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/d3x7r0/configs-nonsensebb.git"
+    "url": "git+https://github.com/NonsenseBB/configs-nonsensebb.git"
   },
   "keywords": [
     "eslint",
@@ -18,9 +18,9 @@
   "author": "Luís Nabais <luis@nabais.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
+    "url": "https://github.com/NonsenseBB/configs-nonsensebb/issues"
   },
-  "homepage": "https://github.com/d3x7r0/configs-nonsensebb/tree/master/packages/eslint-config-base#readme",
+  "homepage": "https://github.com/NonsenseBB/configs-nonsensebb/tree/master/packages/eslint-config-base#readme",
   "engines": {
     "node": ">= 10"
   },

@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/d3x7r0/configs-nonsensebb.git"
+    "url": "git+https://github.com/NonsenseBB/configs-nonsensebb.git"
   },
   "keywords": [
     "eslint",
@@ -22,9 +22,9 @@
   "author": "Luís Nabais <luis@nabais.me>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/d3x7r0/configs-nonsensebb/issues"
+    "url": "https://github.com/NonsenseBB/configs-nonsensebb/issues"
   },
-  "homepage": "https://github.com/d3x7r0/configs-nonsensebb#readme",
+  "homepage": "https://github.com/NonsenseBB/configs-nonsensebb#readme",
   "devDependencies": {
     "@babel/eslint-parser": "^7.13.14",
     "@nonsensebb/eslint-config-node": "^0.4.0",
