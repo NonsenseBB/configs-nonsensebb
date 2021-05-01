@@ -9,7 +9,7 @@
 First, install eslint and other peer dependencies, if you haven't done so yet via npm:
 
 ```shell
-npm install --save-dev babel-eslint eslint eslint-plugin-import eslint-plugin-promise eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
+npm install --save-dev @babel/eslint-parser eslint eslint-plugin-import eslint-plugin-promise eslint-plugin-jsx-a11y eslint-plugin-react eslint-plugin-react-hooks
 ```
 
 and then you can install the config:

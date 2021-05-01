@@ -9,7 +9,7 @@
 First, install eslint and other peer dependencies, if you haven't done so yet via npm:
 
 ```shell
-npm install --save-dev babel-eslint eslint eslint-plugin-import eslint-plugin-promise
+npm install --save-dev eslint eslint-plugin-import eslint-plugin-promise
 ```
 
 and then you can install the config:
