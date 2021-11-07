@@ -22,11 +22,11 @@
     "node": "^10.12.0 || >=12.0.0"
   },
   "dependencies": {
-    "stylelint-config-recommended": "^5.0.0"
+    "stylelint-config-recommended": "^6.0.0"
   },
   "peerDependencies": {
-    "stylelint": ">=13.12.0",
-    "stylelint-order": "^4.1.0"
+    "stylelint": "^14.0.0",
+    "stylelint-order": "^5.0.0"
   },
   "publishConfig": {
     "access": "public"
