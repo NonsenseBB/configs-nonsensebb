@@ -1,7 +1,7 @@
 {
   "name": "@nonsensebb/configs",
   "description": "eslint and stylelint shared configs by NonsenseBB",
-  "version": "0.5.0",
+  "version": "0.6.0",
   "private": true,
   "scripts": {
     "publish": "lerna publish",
@@ -28,7 +28,7 @@
   "homepage": "https://github.com/NonsenseBB/configs-nonsensebb#readme",
   "devDependencies": {
     "@babel/eslint-parser": "^7.16.0",
-    "@nonsensebb/eslint-config-node": "^0.5.0",
+    "@nonsensebb/eslint-config-node": "^0.6.0",
     "eslint": "^7.32.0",
     "eslint-plugin-import": "^2.25.2",
     "eslint-plugin-promise": "^5.1.1",
