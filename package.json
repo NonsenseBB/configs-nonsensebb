@@ -28,7 +28,7 @@
   "homepage": "https://github.com/NonsenseBB/configs-nonsensebb#readme",
   "devDependencies": {
     "@babel/eslint-parser": "^7.17.0",
-    "@nonsensebb/eslint-config-node": "^0.6.0",
+    "@nonsensebb/eslint-config-node": "^0.7.0",
     "eslint": "^8.10.0",
     "eslint-plugin-import": "^2.25.4",
     "eslint-plugin-promise": "^6.0.0",
